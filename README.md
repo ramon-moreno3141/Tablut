@@ -1,5 +1,5 @@
 # Tablut
-<strong>FILES WORKED ON: tablut/Square.java, tablut/Piece.java, tablut/Move.java, tablut/Board.java, tablut/AI.java, tablut/TablutTests.java</strong>
+<strong>FILES WORKED ON: tablut/Square.java, tablut/Move.java, tablut/Board.java, tablut/AI.java, tablut/TablutTests.java</strong>
 
 <strong>Rules of the Game:</strong><br>
 Tablut is played on a 9x9 checkerboard between a set of 9 white pieces and 16 black pieces. The middle square is called the throne (or castle). 
